@@ -1,4 +1,4 @@
-Code for the mban_a32_aws_services - Gabriel Chouraqui - DD-MBAN
+Code for the mban_a32_aws_services - Gabriel Chouraqui
 
 --------------------------------------------
 
