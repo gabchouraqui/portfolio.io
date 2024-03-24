@@ -1,4 +1,4 @@
-Code for the mban_a33 - Gabriel Chouraqui - DD-MBAN
+Code for the mban_a33 - Gabriel Chouraqui
 
 --------------------------------------------
 
