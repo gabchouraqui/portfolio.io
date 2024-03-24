@@ -1,4 +1,4 @@
-Code for the sql_and_tableau analysis - Gabriel Chouraqui DD-MBAN
+Code for the sql_and_tableau analysis - Gabriel Chouraqui
 
 -------------------------------------------------------------------------------------------------------------------
 
