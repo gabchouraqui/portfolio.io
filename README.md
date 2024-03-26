@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-Here you'll find a showcase of my past successful academic projects, crafted with passion and dedication. Dive in to explore a variety of projects spanning `Python`, `R`, and `SQL`, each offering a unique blend of `exploratory data analysis (EDA)`, `deep analysis`, `data visualizations`, `machine learning` and `deep learning` techniques.
+Here you'll find a showcase of my past successful academic projects, crafted with passion and dedication. Dive in to explore a variety of projects spanning **Python**, **R**, and **SQL**, each offering a unique blend of **exploratory data analysis (EDA)**, **deep analysis**, **data visualizations**, **machine learning** and **deep learning** techniques.
 
 ## What to Expect
 
