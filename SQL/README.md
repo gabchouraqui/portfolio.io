@@ -41,4 +41,6 @@ Here, you'll discover a compilation of projects showcasing my proficiency in SQL
 
 ## Let's Connect
 
-SQL is the backbone of modern data-driven applications, and I'm passionate about harnessing its potential for solving real-world challenges. If you're intrigued by these projects I'd love to hear from you! Feel free to reach out via [email](mailto:gabchouraqui@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui). Let's unlock the power of SQL together!
+SQL is the backbone of modern data-driven applications, and I'm passionate about harnessing its potential for solving real-world challenges. If you're intrigued by these projects, I'd love to hear from you! 
+
+Feel free to reach out via [email](mailto:gabchouraqui@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui).
