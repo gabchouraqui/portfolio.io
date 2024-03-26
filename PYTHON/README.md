@@ -73,7 +73,7 @@ Here, you'll find a curated collection of projects developed using Python – a 
  
 ### (H). Earthquake API Analysis
 
-- **Description**: This assignment was to do analysis of different earthquake around the globe and by using an API, finding the best earthquake next to...a roller coaster!
+- **Description**: This assignment was to do analysis of different earthquake around the globe by using an API. 
   
 - **Features**:
   - Datetime
@@ -81,7 +81,7 @@ Here, you'll find a curated collection of projects developed using Python – a 
  
 ### (I). Time Series Analysis
 
-- **Description**: In this project, I did an in depth time series analysis.
+- **Description**: In this project, I did an in depth time series analysis and finding the best earthquake next to...a roller coaster!
   
 - **Features**:
   - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
