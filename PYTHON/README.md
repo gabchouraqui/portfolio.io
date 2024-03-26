@@ -8,61 +8,62 @@ Here, you'll find a curated collection of projects developed using Python – a 
 
 ### (A). Machine Learning and Deep Learning Predictions
 
-- **Description**: Dive into the realm of predictive maintenance with this Python project. Utilizing machine learning algorithms, this system predicts equipment failures before they occur, enabling proactive maintenance strategies and minimizing downtime.
+- **Description**: This was an intense project where with my team, we tried to find the model with the best accuracy to predict some outputs of a dataset. 
   
 - **Features**:
   - Data preprocessing and feature engineering
-  - Implementation of machine learning models (e.g., Random Forest, XGBoost)
-  - Model evaluation and deployment
+  - Implementation of machine learning models (Random Forest, XGBoost...)
+  - Implementation of deep learning models (Neural Network, CNN...)
   
 ### (B). Harry Potter Movie Analysis and Predictions
 
-- **Description**: Uncover the power of natural language processing (NLP) with this Python toolkit. Explore a range of NLP techniques for text preprocessing, sentiment analysis, named entity recognition, and more, empowering you to extract valuable insights from textual data.
+- **Description**: This deep analysis looks at the Harry Potter movie. I've conducted sentiment analysis, predictions and some data visualizations.
   
 - **Features**:
-  - Text preprocessing techniques (tokenization, stemming, lemmatization)
-  - Sentiment analysis using pre-trained models
-  - Named entity recognition with spaCy
+  - Exploratory Data Analysis (EDA)
+  - Sentiment analysis
+  - Data visualization
+  - Predictive modeling
   
 ### (C). Music Dataset Analysis and Predictions
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: In this analysis, I went in depth into a dataset of different streaming plateforms and did some statisticals analysis, predictions, sentiment analysis...
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Exploratory Data Analysis (EDA)
+  - Sentiment analysis
+  - Data visualization
+  - Predictive modeling
  
 ### (D). Temperatures Forecast Analysis and Predictions
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: This time series analysis was to answer some intructions using Python. It was a clear analysis and predictive analysis of some weather temperatures. 
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Time series analysis
+  - Forecast
+  - Statistical analysis
  
 ### (E). Retiree Model
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: This big challenge was to create a model where a retiree could input some information and the model would give some financial advice taking in considerations multiple factors such as taxes, inflation and life expectancy.
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - User inputs
+  - Predictions
  
 ### (F). Sports Cars Analysis
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: This fun analysis looks at a dataset of sports cars and shows some insights, outliers and makes some predictions on prices according to some factors.
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Exploratory Data Analysis (EDA)
+  - Data visualization
+  - Predictive modeling
  
 ### (G). Oil & Gas Analysis
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: In this project, I did a deep analysis of a dataset with more than 500 features and 2M instances! This analysis helped to understand retailer preferences in term of 
   
 - **Features**:
   - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
