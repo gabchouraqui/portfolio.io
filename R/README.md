@@ -50,12 +50,13 @@ Here, you'll find a curated selection of projects developed using the R programm
   
 - **Features**:
   - Natural Language Processing (NLP)
-  - Time-series forecasting
-  - Model validation and performance evaluation
+  - Corpus, DTM, n-grams, TDM
+  - Sentiment analysis
+  - Data visualization
 
  ### 6. Iowa Liquor Store Analysis
 
-- **Description**: Experience the power of statistical modeling for business forecasting with this project. Utilizing R's robust statistical libraries, predict future trends, anticipate demand, and optimize resource allocation for enhanced business performance.
+- **Description**: This project was analyze key data of all of the liquor store in Iowa. The analysis helped to find insights and recommendations for more business value.
   
 - **Features**:
   - Regression analysis
