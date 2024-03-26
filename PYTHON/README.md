@@ -98,7 +98,7 @@ Here, you'll find a curated collection of projects developed using Python – a 
   - Sentiment analysis
   - Statistical analysis
  
-### (K). Tinder Analysis NLP
+### (K). Tinder Analysis NLP (this might not open for some of you, sorry!)
 
 - **Description**: This project was similar to the previous one but with the data retrieved from Tinder. Funny results.
   
