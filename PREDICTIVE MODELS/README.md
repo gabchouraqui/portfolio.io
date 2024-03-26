@@ -4,6 +4,8 @@ Welcome to the Predictive Models Showcase in my portfolio!
 
 Here, you'll discover a series of projects showcasing my expertise in developing predictive models using machine learning and deep learning techniques. Each project demonstrates my ability to harness the power of advanced algorithms to make accurate predictions, uncover hidden patterns, and drive data-driven decision-making. Explore these projects to witness the transformative potential of predictive modeling in various domains.
 
+This is not an exhaustive list. Feel free to look at my other projects in R and Python to see more predictive models.
+
 ## Projects
 
 ### (A). Machine Learning and Deep Learning Predictions
@@ -34,6 +36,25 @@ Here, you'll discover a series of projects showcasing my expertise in developing
   - Sentiment analysis
   - Data visualization
   - Predictive modeling
+ 
+### (D). Spaceship Titanic Predictions
+
+- **Description**: This was a Kaggle competition to predict some outputs of a dataset of people being Transported or Not Transported. As a team, we did a deep analysis and we've created different predictive models that led to a result of 81% accurate to the actual results.
+
+- **Features**:
+  - Data cleaning and preprocessing
+  - Predictive modeling
+  - Forecasting using advanced statistical models
+
+### (E). Price Diamond Predictions
+
+- **Description**: In this project, I used web scrapping from the website [Diamonds Direct](https://diamondsdirect.com/) and create a model that predict the price of a diamond based on different factors.
+  
+- **Features**:
+  - Text mining techniques
+  - Web Scraping
+  - Predictive modeling
+
   
 ## Let's Connect
 
