@@ -6,7 +6,7 @@ Here, you'll find a curated selection of projects developed using the R programm
 
 ## Projects
 
-### A. Spaceship Titanic Predictions
+### (A). Spaceship Titanic Predictions
 
 - **Description**: This was a Kaggle competition to predict some outputs of a dataset of people being Transported or Not Transported. As a team, we did a deep analysis and we've created different predictive models that led to a result of 81% accurate to the actual results.
 
@@ -15,7 +15,7 @@ Here, you'll find a curated selection of projects developed using the R programm
   - Predictive modeling
   - Forecasting using advanced statistical models
 
-### B. Price Diamond Predictions
+### (B). Price Diamond Predictions
 
 - **Description**: In this project, I used web scrapping from the website [Diamonds Direct](https://diamondsdirect.com/) and create a model that predict the price of a diamond based on different factors.
   
@@ -24,7 +24,7 @@ Here, you'll find a curated selection of projects developed using the R programm
   - Web Scraping
   - Predictive modeling
 
-### C. Airbnb Analysis
+### (C). Airbnb Analysis
 
 - **Description**: This project was to do deep Natural Language Processing (NLP) to find insights on descriptions and reviews of Airbnb hosts.
   
@@ -35,7 +35,7 @@ Here, you'll find a curated selection of projects developed using the R programm
   - Sentiment analysis
   - Naive bayes
 
- ### D. Bedding Bathing & Yonder Analysis and Predictions
+ ### (D). Bedding Bathing & Yonder Analysis and Predictions
 
 - **Description**: This analysis was following the framework SEMMA (Sample, Explore, Modify, Model, Assess) leading to predictions of the yHat. 
   
@@ -44,7 +44,7 @@ Here, you'll find a curated selection of projects developed using the R programm
   - Predictive modeling
   - Cross validation
 
- ### E. TM Ambassador NLP
+ ### (E). TM Ambassador NLP
 
 - **Description**: Using Natural Language Processing (NLP) to understand the bias in description of international students ambassadors. 
   
@@ -54,7 +54,7 @@ Here, you'll find a curated selection of projects developed using the R programm
   - Sentiment analysis
   - Data visualization
 
- ### F. Iowa Liquor Store Analysis
+ ### (F). Iowa Liquor Store Analysis
 
 - **Description**: This project was analyze key data of all of the liquor store in Iowa. The analysis helped to find insights and recommendations for more business value.
   
