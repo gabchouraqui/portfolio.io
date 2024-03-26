@@ -33,14 +33,14 @@ Welcome to the R Projects Showcase in my portfolio! Here, you'll find a curated 
   - Sentiment analysis
   - Naive bayes
 
- ### 4. Bedding Bathing & Yonder Analysis
+ ### 4. Bedding Bathing & Yonder Analysis and Predictions
 
-- **Description**: Experience the power of statistical modeling for business forecasting with this project. Utilizing R's robust statistical libraries, predict future trends, anticipate demand, and optimize resource allocation for enhanced business performance.
+- **Description**: This analysis was following the framework SEMMA (Sample, Explore, Modify, Model, Assess) leading to predictions of the yHat. 
   
 - **Features**:
-  - Regression analysis
-  - Time-series forecasting
-  - Model validation and performance evaluation
+  - Train, Test
+  - Predictive modeling
+  - Cross validation
 
  ### 5. TM Ambassador NLP
 
