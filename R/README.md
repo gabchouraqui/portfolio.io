@@ -1,4 +1,4 @@
-# `R Projects Showcase`
+# R Projects Showcase
 
 Welcome to the R Projects Showcase in my portfolio! Here, you'll find a curated selection of projects developed using the R programming language. Each project reflects my dedication to leveraging R's capabilities for data analysis, visualization, and statistical modeling. Dive into these projects to witness the power of R in action!
 
@@ -6,16 +6,16 @@ Welcome to the R Projects Showcase in my portfolio! Here, you'll find a curated 
 
 ### 1. Spaceship Titanic Predictions
 
-- **Description**: This project offers a comprehensive analysis of market trends using R. Explore the dynamics of supply and demand, identify key market drivers, and uncover actionable insights to inform strategic decisions.
+- **Description**: This was a Kaggle competition to predict some outputs of a dataset of people being Transported or Not Transported. As a team, we did a deep analysis and we've created different predictive models that led to a result of 81% accurate to the actual results.
   
 - **Features**:
   - Data cleaning and preprocessing
-  - Time-series analysis
+  - Predictive modeling
   - Forecasting using advanced statistical models
 
 ### 2. Price Diamond Predictions
 
-- **Description**: Dive into the realm of sentiment analysis using R and Twitter data. Analyze public sentiment towards a specific topic, product, or brand by harnessing the vast stream of tweets available on the platform.
+- **Description**: In this project, I used web scrapping from the website [Diamonds Direct](https://diamondsdirect.com/) and create a model that predict the price of a diamond based on different factors.
   
 - **Features**:
   - Text mining techniques
