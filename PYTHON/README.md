@@ -76,13 +76,12 @@ Here, you'll find a curated collection of projects developed using Python – a 
 - **Description**: This assignment was to do analysis of different earthquake around the globe and by using an API, finding the best earthquake next to...a roller coaster!
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Datetime
+  - Statistical analysis
  
 ### (I). Time Series Analysis
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: In this project, I did an in depth time series analysis.
   
 - **Features**:
   - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
