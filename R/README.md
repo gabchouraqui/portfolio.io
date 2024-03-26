@@ -64,4 +64,6 @@ Here, you'll find a curated selection of projects developed using the R programm
 
 ## Let's Connect
 
-I'm passionate about R and its potential for driving impactful insights. If you're intrigued by these projects, I'd love to hear from you! Feel free to reach out via [email](mailto:gabchouraqui@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui). Let's explore the possibilities of R together!
+I'm passionate about R and its potential for driving impactful insights. If you're intrigued by these projects, I'd love to hear from you! 
+
+Feel free to reach out via [email](mailto:gabchouraqui@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui).
