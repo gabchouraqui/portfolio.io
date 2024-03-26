@@ -1,6 +1,8 @@
 # R Projects Showcase
 
-Welcome to the R Projects Showcase in my portfolio! Here, you'll find a curated selection of projects developed using the R programming language. Each project reflects my dedication to leveraging R's capabilities for data analysis, visualization, and statistical modeling. Dive into these projects to witness the power of R in action!
+Welcome to the R Projects Showcase in my portfolio! 
+
+Here, you'll find a curated selection of projects developed using the R programming language. Each project reflects my dedication to leveraging R's capabilities for data analysis, visualization, and statistical modeling. Dive into these projects to witness the power of R in action!
 
 ## Projects
 
