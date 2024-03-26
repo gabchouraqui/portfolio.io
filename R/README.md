@@ -9,7 +9,7 @@ Here, you'll find a curated selection of projects developed using the R programm
 ### 1. Spaceship Titanic Predictions
 
 - **Description**: This was a Kaggle competition to predict some outputs of a dataset of people being Transported or Not Transported. As a team, we did a deep analysis and we've created different predictive models that led to a result of 81% accurate to the actual results.
-  
+
 - **Features**:
   - Data cleaning and preprocessing
   - Predictive modeling
