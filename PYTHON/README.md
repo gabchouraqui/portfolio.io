@@ -63,16 +63,17 @@ Here, you'll find a curated collection of projects developed using Python – a 
  
 ### (G). Oil & Gas Analysis
 
-- **Description**: In this project, I did a deep analysis of a dataset with more than 500 features and 2M instances! This analysis helped to understand retailer preferences in term of 
+- **Description**: In this project, I did a deep analysis of a dataset with more than 500 features and 2M instances! This analysis helped to understand retailer preferences in term of barrels and showed crucial insights.
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
+  - Exploratory Data Analysis (EDA)
+  - Data visualization
+  - Statistical analysis
   - Data parsing and storage
  
 ### (H). Earthquake API Analysis
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: This assignment was to do analysis of different earthquake around the globe and by using an API, finding the best earthquake next to...a roller coaster!
   
 - **Features**:
   - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
