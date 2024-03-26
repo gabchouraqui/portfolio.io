@@ -73,47 +73,48 @@ Here, you'll find a curated collection of projects developed using Python – a 
  
 ### (H). Earthquake API Analysis
 
-- **Description**: This assignment was to do analysis of different earthquake around the globe by using an API. 
+- **Description**: This assignment was to do analysis of different earthquake around the globe by using an API. Regular expressions (RegEx) was also used to filtered some text.
   
 - **Features**:
   - Datetime
   - Statistical analysis
+  - Regular Expressions (RegEx)
  
 ### (I). Time Series Analysis
 
-- **Description**: In this project, I did an in depth time series analysis and finding the best earthquake next to...a roller coaster!
+- **Description**: In this project, I did an in depth time series analysis and found the nearest earthquake next to...a roller coaster!
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Time series analysis
+  - Statistical analysis
  
 ### (J). Social Media Hate Speech
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: This project was to do a deep Natural Language Processing (NLP) analysis to look at the different sentiment in Twitter (X). 
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Exploratory Data Analysis (EDA)
+  - Data visualization
+  - Sentiment analysis
+  - Statistical analysis
  
 ### (K). Tinder Analysis NLP
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: This project was similar to the previous one but with the data retrieved from Tinder. Funny results.
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Exploratory Data Analysis (EDA)
+  - Data visualization
+  - Sentiment analysis
  
 ### (L). Word Report 2023 Analysis
 
-- **Description**: Master the art of web scraping with this Python project. Learn how to extract data from websites efficiently and ethically, enabling you to gather valuable information for analysis, research, and business intelligence.
+- **Description**: This project was an analysis of the the Happiness Country Word Report of 2023. With the team, we went in depth into the dataset to look at the data and create some visualizations.
   
 - **Features**:
-  - Implementation of web scraping techniques (using libraries like BeautifulSoup, Scrapy)
-  - Handling dynamic web content (JavaScript rendering, AJAX requests)
-  - Data parsing and storage
+  - Exploratory Data Analysis (EDA)
+  - Data visualization
+  - x
   
 ## Let's Connect
 
