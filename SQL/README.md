@@ -4,32 +4,37 @@ Here, you'll discover a compilation of projects showcasing my proficiency in SQL
 
 ## Projects
 
-### 1. E-commerce Database Optimization
+### 1. Amazon Insights
 
-- **Description**: Dive into the world of e-commerce database management with this project. Explore strategies for optimizing database performance, enhancing scalability, and ensuring seamless user experiences for e-commerce platforms.
-  
+- **Description**: The purpose of this project was to understand business questions about some issues in the Amazon website.
+    
 - **Features**:
   - Database schema design and optimization
   - Query performance tuning
-  - Indexing strategies for improved query execution
   
-### 2. Financial Data Analysis with SQL
+### 2. Learning Plateform Analysis
 
-- **Description**: Uncover hidden patterns and trends within financial datasets using SQL. This project delves into the realm of financial data analysis, offering insights that drive informed decision-making and strategic planning.
+- **Description**: In this project, I've answered some questions asked about a learning plateforms such as "Which countries have the most students registered, and does this number scale proportionally with the number of minutes watched per country?"
   
 - **Features**:
   - Complex SQL queries for data aggregation and analysis
-  - Financial ratio calculations
-  - Comparative analysis of financial metrics
+  - Join, Inner Join, Left Join
   
-### 3. Healthcare Data Management System
+### 3. Track Students Analysis
 
-- **Description**: Experience the importance of robust data management systems in the healthcare industry. This project focuses on designing and implementing a comprehensive healthcare database, ensuring data integrity, security, and accessibility.
+- **Description**: Here, the goal was to understand the business of students who enrolled in a service online. 
   
 - **Features**:
-  - Entity-relationship modeling
-  - Implementation of database constraints and triggers
+  - Datediff, if statements
   - SQL queries for data retrieval and reporting
+
+ ### 4. Carrier On Time Performance
+
+- **Description**: xxx
+  
+- **Features**:
+  - Exploratory Data Analysis (EDA)
+  - Data Visualization
   
 ## Let's Connect
 
