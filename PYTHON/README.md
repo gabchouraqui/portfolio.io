@@ -114,7 +114,7 @@ Here, you'll find a curated collection of projects developed using Python – a 
 - **Features**:
   - Exploratory Data Analysis (EDA)
   - Data visualization
-  - x
+  - Statistical analysis
   
 ## Let's Connect
 
