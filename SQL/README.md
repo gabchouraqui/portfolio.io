@@ -1,6 +1,6 @@
 # SQL Projects Showcase
 
-Welcome to the SQL Projects Showcase in my portfolio! Here, you'll discover a compilation of projects showcasing my proficiency in SQL – a powerful language for managing and analyzing relational databases. Each project demonstrates my ability to manipulate data efficiently, extract valuable insights, and optimize database performance. Explore these projects to witness the impact of SQL in action!
+Here, you'll discover a compilation of projects showcasing my proficiency in SQL – a powerful language for managing and analyzing relational databases. Each project demonstrates my ability to manipulate data efficiently, extract valuable insights, and optimize database performance. Explore these projects to witness the impact of SQL in action!
 
 ## Projects
 
