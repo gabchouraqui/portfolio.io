@@ -46,10 +46,10 @@ Here, you'll find a curated selection of projects developed using the R programm
 
  ### 5. TM Ambassador NLP
 
-- **Description**: Experience the power of statistical modeling for business forecasting with this project. Utilizing R's robust statistical libraries, predict future trends, anticipate demand, and optimize resource allocation for enhanced business performance.
+- **Description**: Using Natural Language Processing (NLP) to understand the bias in description of international students ambassadors. 
   
 - **Features**:
-  - Regression analysis
+  - Natural Language Processing (NLP)
   - Time-series forecasting
   - Model validation and performance evaluation
 
