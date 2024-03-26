@@ -1,6 +1,8 @@
 # Predictive Models Showcase
 
-Welcome to the Predictive Models Showcase in my portfolio! Here, you'll discover a series of projects showcasing my expertise in developing predictive models using machine learning and deep learning techniques. Each project demonstrates my ability to harness the power of advanced algorithms to make accurate predictions, uncover hidden patterns, and drive data-driven decision-making. Explore these projects to witness the transformative potential of predictive modeling in various domains.
+Welcome to the Predictive Models Showcase in my portfolio! 
+
+Here, you'll discover a series of projects showcasing my expertise in developing predictive models using machine learning and deep learning techniques. Each project demonstrates my ability to harness the power of advanced algorithms to make accurate predictions, uncover hidden patterns, and drive data-driven decision-making. Explore these projects to witness the transformative potential of predictive modeling in various domains.
 
 ## Projects
 
@@ -33,4 +35,6 @@ Welcome to the Predictive Models Showcase in my portfolio! Here, you'll discover
   
 ## Let's Connect
 
-Predictive modeling is a game-changer in decision-making across industries, and I'm passionate about pushing the boundaries of what's possible with advanced algorithms. If you're intrigued by these projects feel free to reach out via [email](mailto:gabchouraqui@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui). Let's unlock the predictive power of data together!
+Predictive modeling is a game-changer in decision-making across industries, and I'm passionate about pushing the boundaries of what's possible with advanced algorithms. 
+
+If you're intrigued by these projects feel free to reach out via [email](mailto:gabchouraqui@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui).
