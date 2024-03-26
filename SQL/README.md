@@ -6,7 +6,7 @@ Here, you'll discover a compilation of projects showcasing my proficiency in SQL
 
 ## Projects
 
- ### 1. Carrier On Time Performance
+ ### (A). Carrier On Time Performance
 
 - **Description**: The main project where carriers time performance were analyzed and reported finding some insight and business value. Some data visualizations where then created on Tableau and Power BI.
   
@@ -14,7 +14,7 @@ Here, you'll discover a compilation of projects showcasing my proficiency in SQL
   - Exploratory Data Analysis (EDA)
   - Data Visualization
 
-### 2. Amazon Insights
+### (B). Amazon Insights
 
 - **Description**: The purpose of this project was to understand business questions about some issues in the Amazon website.
     
@@ -22,7 +22,7 @@ Here, you'll discover a compilation of projects showcasing my proficiency in SQL
   - Database schema design and optimization
   - Query performance tuning
   
-### 3. Learning Plateform Analysis
+### (C). Learning Plateform Analysis
 
 - **Description**: In this project, I've answered some questions asked about a learning plateforms such as "Which countries have the most students registered, and does this number scale proportionally with the number of minutes watched per country?"
   
@@ -30,7 +30,7 @@ Here, you'll discover a compilation of projects showcasing my proficiency in SQL
   - Complex SQL queries for data aggregation and analysis
   - Join, Inner Join, Left Join
   
-### 4. Track Students Analysis
+### (D). Track Students Analysis
 
 - **Description**: Here, the goal was to understand the business of students who enrolled in a service online. 
   
