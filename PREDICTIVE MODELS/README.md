@@ -6,32 +6,34 @@ Here, you'll discover a series of projects showcasing my expertise in developing
 
 ## Projects
 
-### 1. Customer Churn Prediction
+### (A). Machine Learning and Deep Learning Predictions
 
-- **Description**: Delve into the realm of customer churn prediction with this project. Using machine learning algorithms, this model identifies customers at risk of churn, enabling proactive retention strategies and maximizing customer lifetime value.
+- **Description**: This was an intense project where with my team, we tried to find the model with the best accuracy to predict some outputs of a dataset. 
   
 - **Features**:
   - Data preprocessing and feature engineering
-  - Classification algorithms (e.g., Logistic Regression, Random Forest, Gradient Boosting)
-  - Model evaluation and interpretation
+  - Implementation of machine learning models (Random Forest, XGBoost...)
+  - Implementation of deep learning models (Neural Network, CNN...)
   
-### 2. Stock Price Forecasting
+### (B). Harry Potter Movie Analysis and Predictions
 
-- **Description**: Explore the world of stock price forecasting with this project. Leveraging time-series analysis and deep learning models, this system predicts future stock prices with high accuracy, empowering investors and traders to make informed decisions.
+- **Description**: This deep analysis looks at the Harry Potter movie. I've conducted sentiment analysis, predictions and some data visualizations.
   
 - **Features**:
-  - Time-series data preprocessing
-  - Long Short-Term Memory (LSTM) neural networks
-  - Model training, validation, and backtesting
+  - Exploratory Data Analysis (EDA)
+  - Sentiment analysis
+  - Data visualization
+  - Predictive modeling
   
-### 3. Image Classification using Convolutional Neural Networks (CNNs)
+### (C). Music Dataset Analysis and Predictions
 
-- **Description**: Experience the power of convolutional neural networks (CNNs) in image classification tasks with this project. From identifying objects in images to detecting anomalies in medical scans, CNNs offer unparalleled performance in various domains.
+- **Description**: In this analysis, I went in depth into a dataset of different streaming plateforms and did some statisticals analysis, predictions, sentiment analysis...
   
 - **Features**:
-  - Image preprocessing and augmentation
-  - Transfer learning with pre-trained CNN architectures (e.g., VGG, ResNet)
-  - Fine-tuning and model optimization
+  - Exploratory Data Analysis (EDA)
+  - Sentiment analysis
+  - Data visualization
+  - Predictive modeling
   
 ## Let's Connect
 
