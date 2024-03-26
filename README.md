@@ -16,6 +16,6 @@ Here you'll find a showcase of my past successful academic projects, crafted wit
 
 ## Let's Connect
 
-I'm excited to share my journey with you and eager to hear your thoughts! Feel free to explore the projects and reach out to discuss. 
+I'm excited to share my journey with you and eager to hear your thoughts! Feel free to explore the projects and reach out to discuss!
 
-Connect with me via [email](mailto:gabchouraqui@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui)!
+Connect with me via [email](mailto:gabchouraqui@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/gabrielchouraqui).
