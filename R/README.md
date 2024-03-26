@@ -59,9 +59,8 @@ Here, you'll find a curated selection of projects developed using the R programm
 - **Description**: This project was analyze key data of all of the liquor store in Iowa. The analysis helped to find insights and recommendations for more business value.
   
 - **Features**:
-  - Regression analysis
-  - Time-series forecasting
-  - Model validation and performance evaluation
+  - Data visualization
+  - Deep analysis
 
 ## Let's Connect
 
