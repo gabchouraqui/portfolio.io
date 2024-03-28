@@ -17,7 +17,7 @@ This is not an exhaustive list. Feel free to look at my other projects in R and 
   - Implementation of machine learning models (Random Forest, XGBoost...)
   - Implementation of deep learning models (Neural Network, CNN...)
   
-### (B). Harry Potter Movie Analysis and Predictions
+### [(B). Harry Potter Movie Analysis and Predictions](https://github.com/gabchouraqui/portfolio.io/blob/main/PREDICTIVE%20MODELS/(B).%20Harry%20Potter%20Movie%20Analysis%20and%20Predictions.ipynb)
 
 - **Description**: This deep analysis looks at the Harry Potter movie. I've conducted sentiment analysis, predictions and some data visualizations.
   
@@ -27,7 +27,7 @@ This is not an exhaustive list. Feel free to look at my other projects in R and 
   - Data visualization
   - Predictive modeling
   
-### (C). Music Dataset Analysis and Predictions
+### [(C). Music Dataset Analysis and Predictions](https://github.com/gabchouraqui/portfolio.io/blob/main/PREDICTIVE%20MODELS/(C).%20Music%20Dataset%20Analysis%20and%20Predictions.ipynb)
 
 - **Description**: In this analysis, I went in depth into a dataset of different streaming plateforms and did some statisticals analysis, predictions, sentiment analysis...
   
@@ -37,7 +37,7 @@ This is not an exhaustive list. Feel free to look at my other projects in R and 
   - Data visualization
   - Predictive modeling
  
-### (D). Spaceship Titanic Predictions
+### [(D). Spaceship Titanic Predictions](https://github.com/gabchouraqui/portfolio.io/blob/main/PREDICTIVE%20MODELS/(D).%20Spaceship%20Titanic%20Predictions.R)
 
 - **Description**: This was a Kaggle competition to predict some outputs of a dataset of people being Transported or Not Transported. As a team, we did a deep analysis and we've created different predictive models that led to a result of 81% accurate to the actual results.
 
@@ -46,7 +46,7 @@ This is not an exhaustive list. Feel free to look at my other projects in R and 
   - Predictive modeling
   - Forecasting using advanced statistical models
 
-### (E). Price Diamond Predictions
+### [(E). Price Diamond Predictions](https://github.com/gabchouraqui/portfolio.io/blob/main/PREDICTIVE%20MODELS/(E).%20Price%20Diamond%20Predictions.R)
 
 - **Description**: In this project, I used web scrapping from the website [Diamonds Direct](https://diamondsdirect.com/) and create a model that predict the price of a diamond based on different factors.
   
