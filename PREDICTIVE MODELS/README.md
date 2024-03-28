@@ -8,7 +8,7 @@ This is not an exhaustive list. Feel free to look at my other projects in R and 
 
 ## Projects
 
-### (A). Machine Learning and Deep Learning Predictions
+### [(A). Machine Learning and Deep Learning Predictions](
 
 - **Description**: This was an intense project where with my team, we tried to find the model with the best accuracy to predict some outputs of a dataset. 
   
